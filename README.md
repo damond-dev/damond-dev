@@ -4,7 +4,7 @@ Estudiante de **Ingeniería en Ciencias Informáticas** (3er año) en la **UCI**
 Desarrollo sitios web funcionales para negocios reales y diseño identidad visual (logos) para marcas.
 
 - 🌱 Aprendiendo desarrollo full-stack y mejorando mis bases en programación
-- 🛠️ Construyo con HTML, CSS, JavaScript y herramientas de desarrollo asistido por IA (Bolt, Emergent)
+- 🛠️ Construyo con HTML, CSS, JavaScript y herramientas de desarrollo asistido por IA 
 - 🚀 Despliego mis proyectos en Vercel
 - 📫 Contacto: traviesoanthony021@gmail.com
 - 🇬🇧 Inglés: B2
